@@ -6,7 +6,7 @@ Cisco Packet Tracer project: a 5-building campus network with multi-area OSPF, V
 
 ## Topology
 
-![Network Topology](images/topology.png)
+![Network Topology](images/topology_.png)
 
 ## Overview
 
