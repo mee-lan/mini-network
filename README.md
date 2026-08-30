@@ -2,7 +2,7 @@
 
 Cisco Packet Tracer project: a 5-building campus network with multi-area OSPF, VLAN segmentation, centralized DHCP, and redundant DNS/Web services.
 
-**Author:** Milan Gyawali (079BCT046)
+**Author:** Milan Gyawali
 
 ## Topology
 
